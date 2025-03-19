@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-ia",
+  "version": "1.0.0",
+  "description": "New Portfolio with Artificial Intelligence",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Alexandre Chagas",
+  "license": "ISC"
+}
